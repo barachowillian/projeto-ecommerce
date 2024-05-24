@@ -5,8 +5,11 @@
 }
 
 nav#menu ul{
-text-transform: uppercase; 
-list-style: none;
+     text-transform: uppercase; 
+     list-style: none;
+     position: absolute;
+     top: 56px; 
+     left: 1200px;
 
 }
 
@@ -17,6 +20,8 @@ list-style: none;
 
         nav#menu li{
             display: inline-block;
+            background-color: rgb(76, 177, 160);
+            padding: 10px;
         }
 
       body{
@@ -28,6 +33,6 @@ background: linear-gradient(90deg, rgba(65,232,188,1) 23%, rgba(166,231,160,1) 2
       header{
               background-color: antiquewhite;
               padding-top: 70px;
-              padding-bottom: 60px;
+              padding-bottom: 7px;
               position: relative;
       }
