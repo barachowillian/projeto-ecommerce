@@ -56,4 +56,15 @@ background: linear-gradient(90deg, rgba(65,232,188,1) 23%, rgba(166,231,160,1) 2
           nav#menu li:hover{
             background-color: rgb(8, 77, 64);
           }
+/* Manipulação de imagens do projeto, na pagina produtos  */
+  .produtos img{
+    max-width: 800px;
 
+  }
+  .produtos p{
+    color: black;
+    font-size: 20px;
+  }
+  .preço{
+    font-size: 27px;
+  }
