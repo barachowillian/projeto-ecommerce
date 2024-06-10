@@ -67,24 +67,24 @@ nav#menu li:hover {
 
 }
 
-.produtos p{
+.produtos p {
   color: black;
   font-size: 20px;
 }
 
-  .preco b {
-     font-size: 300px;
-     max-width: 400px;
-  }
+.preco b {
+  font-size: 30px;
+  max-width: 10px;
+}
 
-  i{
-    text-decoration: line-through;
-  }
+i {
+  text-decoration: line-through;
+}
+
 /* Manipulação de imagens do projeto, na pagina produtos  */
 
-    .produtos img{
-               max-height: 200px;
-               image-rendering: ;
+.produtos img {
+  max-height: 200px;
 
-    }
-    
+
+}
