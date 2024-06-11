@@ -63,7 +63,7 @@ nav#menu li:hover {
 
 /* Manipulação de imagens do projeto, na pagina produtos  */
 .produtos img {
-  max-width: 800px;
+  width: 300px;
 
 }
 
@@ -84,7 +84,7 @@ i {
 /* Manipulação de imagens do projeto, na pagina produtos  */
 
 .produtos img {
-  max-height: 200px;
+  max-height: 1000px;
 
 
 }
